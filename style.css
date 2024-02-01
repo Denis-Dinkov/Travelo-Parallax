@@ -234,7 +234,7 @@ main {
 
 .mountain-3 {
   position: absolute;
-  z-index: 15;
+  z-index: 16;
   width: 419px;
   top: calc(50% + 133px);
   left: calc(50% + 736px);
@@ -242,8 +242,8 @@ main {
 
 .fog-6 {
   position: absolute;
-  z-index: 16;
-  width: 1718px;
+  z-index: 14;
+  width: 1798px;
   top: calc(50% + 300px);
   left: calc(50% + 40px);
 }
@@ -261,7 +261,7 @@ main {
   z-index: 18;
   width: 450px;
   top: calc(50% + 91.5px);
-  left: calc(50% - 624px);
+  left: calc(50% - 664px);
 }
 
 .sun-rays {
@@ -307,4 +307,5 @@ main {
 
 .parallax {
   pointer-events: none;
+  transition: 0.45s cubic-bezier(0.2, 0.49, 0.32, 0.99);
 }
