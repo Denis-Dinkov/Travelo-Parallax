@@ -1,4 +1,4 @@
-# Live Demo - https://travelo-parallax-denis-dinkovs-projects.vercel.app/
+# Live Demo - travelo-parallax.vercel.app
 
 # Zhangjiajie Parallax
 
